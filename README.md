@@ -19,5 +19,5 @@ Repositorio privado utilizado para la realizacion del Trabajo Práctico Único
 
 - Martinez, Juan Sebastian - 83084
 - Simbero, Franco - 82281
-- Toledo, Antonio - 81864
+- Toledo, Antonio Ramon - 81864
 - Zupichiati, Albano - 82387
